@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="hamurabai">
+    <output-path>$PROJECT_DIR$/out/artifacts/hamurabai</output-path>
+    <root id="root">
+      <element id="archive" name="hamurabai.jar">
+        <element id="module-output" name="hamurabai" />
+      </element>
+    </root>
+  </artifact>
+</component>
